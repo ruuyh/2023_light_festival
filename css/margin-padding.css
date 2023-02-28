@@ -1,0 +1,21 @@
+/* 
+마진과 패딩 값은 각각의 태그안에 넣어줄 수 도 있지만
+따로 작성하고, 클래스를 추가 하는 식으로 작성할 수 있다
+ */
+.m-all-1 {
+    margin: 10px;
+}
+
+.m-all-2 {
+    margin: 20px;
+}
+
+.p-top-1 {
+    padding-top: 10px;
+}
+.p-top-2 {
+    padding-top: 20px;
+}
+.p-left-1 {
+    padding-left: 10px;
+}
